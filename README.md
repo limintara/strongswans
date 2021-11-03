@@ -17,6 +17,7 @@ StrongSWANS并非strongswan.org，是一个使用strongswan+freeradius+daloradiu
 1，获取科学上网账户见如下视频:
 
 <video src="./videos/账号注册及下单视频.mp4" width="800px" height="600px" controls="controls"></video>
+
 2，免费订阅后进入用户中心查看用户名和密码已经可用节点信息：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/220cff97e8244375b9cdbbf5ddb84240.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
