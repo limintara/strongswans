@@ -1,7 +1,7 @@
 StrongSWANS并非strongswan.org，是一个使用strongswan+freeradius+daloradius+whmcs搭建的科学上网平台,并实现了用户自主注册订阅(包含免费订阅)。StrongSWANS节点服务器采用IKEv2协议。关于常见VPN协议对比见下图：
-
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/efdcd717da0848eab5b2401bd71ea89e.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 以下是从网上截取的一段对IKEv2的说明：
+
 
 
 > IKEv2有着非常实用的自动重连特性，当用户暂时失去互联网连接（比如进出火车隧道）的时候，它会自动重新建立VPN连接。对于手机用户来说确实是喜大普奔。Ikev2能跑在几乎所有iOS定制的VPN应用上，为了那些使用苹果公司官方VPN
@@ -13,18 +13,29 @@ StrongSWANS并非strongswan.org，是一个使用strongswan+freeradius+daloradiu
 
 所以IKEv2协议相比其他协议无疑是不错的选择，特别其断线可以自动重连的特性，很好的解决了wifi网络和移动流量网络切换时短暂的网络中断问题。
 
-普通使用者看这里(如何从StrongSWANS获取科学上网账户以及各种设备配置)：
-1，获取科学上网账户见如下视频:
+# 普通使用者看这里(如何从StrongSWANS获取科学上网账户以及各种设备配置)：
 
-<video src="./videos/账号注册及下单视频.mp4" width="800px" height="600px" controls="controls"></video>
+## 1，从strongswan.net获取免费的订阅账号:
 
-2，免费订阅后进入用户中心查看用户名和密码已经可用节点信息：
+[**点这里获取免费的计划**](https://www.strongswans.net/index.php/store/vpn)
+
+## 2，免费订阅后进入用户中心查看用户名和密码已经可用节点信息：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/220cff97e8244375b9cdbbf5ddb84240.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f045dd40f05b4b32b08e50b31d5023ee.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
-3，window7及其以上版本操作系统配置步骤：
-视频教程以windows11为例，windows7及以上操作系统配置类似。
+## 3，window7及其以上版本操作系统配置步骤：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/303c0857174d4f828c7c3680ac18528b.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/230c7307d77b49549c77dbdbca107195.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/19349c66489e4fb48c34efff9f735676.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_19,color_FFFFFF,t_70,g_se,x_16#pic_center)
+填写连接名称（随便填写）。服务器名称或地址，用户名、密码从你的strongswans用户中心可以找到。
+
+## 4，IOS客户端配置步骤(待续)
+
+## 5，android客户端配置步骤(待续)
 
