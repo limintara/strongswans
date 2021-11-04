@@ -1,4 +1,5 @@
-StrongSWANS并非strongswan.org，是一个使用strongswan+freeradius+daloradius+whmcs搭建的科学上网平台,并实现了用户自主注册订阅(包含免费订阅)。StrongSWANS节点服务器采用IKEv2协议。关于常见VPN协议对比见下图：
+StrongSWANS并非strongswan.org，是一个使用strongswan+freeradius+daloradius+whmcs搭建的科学上网平台,并实现了用户自主注册订阅(包含免费订阅)。StrongSWANS节点服务器采用IKEv2协议。<br />
+关于常见VPN协议对比见下图：<br />
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/efdcd717da0848eab5b2401bd71ea89e.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 以下是从网上截取的一段对IKEv2的说明：
 
@@ -33,7 +34,8 @@ StrongSWANS并非strongswan.org，是一个使用strongswan+freeradius+daloradiu
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/230c7307d77b49549c77dbdbca107195.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/19349c66489e4fb48c34efff9f735676.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_19,color_FFFFFF,t_70,g_se,x_16#pic_center)
-填写连接名称（随便填写）。服务器名称或地址，用户名、密码从你的strongswans用户中心可以找到。
+
+<br />填写连接名称（随便填写）。服务器名称或地址，用户名、密码从你的strongswans用户中心可以找到。
 
 ## 4，IOS客户端配置步骤(待续)
 
