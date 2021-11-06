@@ -16,28 +16,11 @@ StrongSWANS并非strongswan.org，是一个使用strongswan+freeradius+daloradiu
 
 # 普通使用者看这里(如何从StrongSWANS获取科学上网账户以及各种设备配置)：
 
-## 1，从strongswan.net获取免费的订阅账号:
+## 一，从strongswan.net获取免费的订阅账号:[**点这里查看获取免费的计划**](./archive/get-vpn-account.md)
 
-[**点这里获取免费的计划**](https://www.strongswans.net/index.php/store/vpn)
+## 二，window7及其以上版本操作系统配置步骤：[**点这里查看windows配置步骤**](./archive/windows-setup.md)
 
-## 2，免费订阅后进入用户中心查看用户名和密码已经可用节点信息：
+## 三，IOS客户端配置步骤(待续)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/220cff97e8244375b9cdbbf5ddb84240.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/f045dd40f05b4b32b08e50b31d5023ee.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
-
-## 3，window7及其以上版本操作系统配置步骤：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/303c0857174d4f828c7c3680ac18528b.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/230c7307d77b49549c77dbdbca107195.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/19349c66489e4fb48c34efff9f735676.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YiY5by66KW_5ZOl5ZOl,size_19,color_FFFFFF,t_70,g_se,x_16#pic_center)
-
-<br />填写连接名称（随便填写）。服务器名称或地址，用户名、密码从你的strongswans用户中心可以找到。
-
-## 4，IOS客户端配置步骤(待续)
-
-## 5，android客户端配置步骤(待续)
+## 四，android客户端配置步骤(待续)
 
