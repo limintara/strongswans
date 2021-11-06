@@ -19,7 +19,7 @@ StrongSWANS.net并非strongswan，是一个使用strongswan+freeradius+daloradiu
 
 ## 二，window7及其以上版本操作系统配置步骤：[**点这里查看windows配置步骤**](./archive/windows-setup.md)
 
-## 三，IOS客户端配置步骤:：[**点这里查看iphone配置步骤**](./archive/iphone-setup.md)
+## 三，IOS客户端配置步骤:[**点这里查看iphone配置步骤**](./archive/iphone-setup.md)
 
-## 四，android客户端配置步骤:：[**点这里查看android配置步骤**](./archive/android-setup.md)
+## 四，android客户端配置步骤:[**点这里查看android配置步骤**](./archive/android-setup.md)
 

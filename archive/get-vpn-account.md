@@ -1,4 +1,4 @@
-从strongswan.net获取免费的订阅账号:
+## 1，从strongswan.net获取免费的订阅账号:
 
 [**点这里获取免费的计划**](https://www.strongswans.net/index.php/store/vpn)
 
